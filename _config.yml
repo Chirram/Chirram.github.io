@@ -64,7 +64,7 @@ toc: true
 
 
 # if your site type is Project Pages site, change below value to '/projectname'
-baseurl: '/Chirram'
+baseurl: ''
 
 paginate: 10
 
