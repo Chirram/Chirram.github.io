@@ -1,9 +1,14 @@
 ---
 title: About
 
-# The About page
-# © 2017-2019 Cotes Chung
-# MIT License
+
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+**Chirram Kumar** is a software engineer with experience in 
+Java related teck stack and distributed systems and architecture.
+
+He loves sharing the knowledge and a believer of 
+"Knowledge is the best and safest treasure to acquire".
+
+He worked with widely used technologies and tools like Java, 
+Kafka, Storm, Maven and Angular.

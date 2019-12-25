@@ -173,3 +173,4 @@ sitemap_exclude:  # Sitemap will exclude the following items.
   - /redirects.json
   - /search.json
     # Resource : https://blog.webjeda.com/why-jekyll-over-wordpress/#use-a-theme-that-suits-your-needs
+    #https://chirpy.cotes.info/

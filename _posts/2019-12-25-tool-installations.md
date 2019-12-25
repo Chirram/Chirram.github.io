@@ -7,9 +7,12 @@ seo:
   date_modified: 2019-12-25 21:06:00 +0530
 ---
 
-## Nodejs
+This Article describes about Software installations of various 
+Java related technologies and configurations needed to make it work in the production machines.
 
-Commands to install are as follows
+Go through the following instructions to install in the remote machines.
+
+## Nodejs
 
 ```
 sudo apt-get update
